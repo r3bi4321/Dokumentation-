@@ -34,9 +34,13 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Programm     | Eingabe von Buchstaben| Es funktioniert nicht|
-| 2.1  |  Computer     | Starten des Spiels  | Zahl ausgewählt|
-| 3.1  |
+| 1.1  | Das spiel wurde gestartet| Eingabe von Buchstaben| Es funktioniert nicht|
+| 2.1  | Programm ist fertig| Starten des Spiels  | Zahl ausgewählt|
+| 3.1  | Zahl ist eingegeben| überprüft ob es richtig ist|falsche Zahl sie ist grösser/kleiner|
+| 4.1  |Raten der Zahl|Eingabe richtiger Zahl| gebraucht wurden ... Versuche|
+| 5.1  |Zahlen von 1-100| erhöhen auf 1000| Zahlen von 1-1000 können eraten werden|
+| 6.1  |Bereits eine Zahl ausgesuch| Neuer versuch beim Spiel| Andere Zahl ist richtig|
+| 7.1  |Spiel ist noch nicht offen| spiel öffnen| keine leuchtende Farbe als Hintergrund|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -48,9 +52,13 @@
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
-
+| 1.A  | 6.9   |Willi Rebecca|Programmieung eingeben nur von Zahlen  |45 Minuten|
+| 2.A  | 6.9   |Willi Rebecca|Programmierung speichern der Zahl im Hintergrund |45 Minuten|
+| 3.A  | 6.9   |Willi Rebecca|Programmierung geben von  Hinweisen auf die Zahl |45 Minuten|
+| 4.A  | 6.9   |Willi Rebecca|Programmierung  zählen der Versuche |45 Minuten|
+| 5.A  | 6.9   |Willi Rebecca|Programmierung erhöhen und vermindern der Zahlen|45 Minuten|
+| 6.A  | 6.9   |Willi Rebecca|Programmierung wählen Unterschiedliche Zahlen |45 Minuten|
+| 7.A  | 6.9   |Willi Rebecca|Programmierung Hintergrund|45 Minuten|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -59,7 +67,8 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+✍️ Erst Programmieren des Zahlengenrators
+   
 
 ## 4 Realisieren
 
