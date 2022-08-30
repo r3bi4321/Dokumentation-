@@ -7,7 +7,7 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |23.8   | 0.0.1   | Erste Dokumentation   |
-|30.8   | ...     | Programmieren des Programms                                                   |
+|30.8   | 0.0.2     | Programmieren des Programms                                |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -75,12 +75,12 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
-| 2.A  |30.8.2022|Rebecca Willi|45 Minuten |   10 Minuten       |
-|3.A  | 30.8.2022|Rebecca Willi|45 Minuten|   60 Minuten |
-|4.A |
-|5.A|
-|6.A
-|7.A | 30.8.2022| Rebecca Willi | 45 Minuten| 15 Minuten|
+| 2.A  |30.8.2022|Rebecca Willi|45 Minuten |   10 Minuten      |
+|3.A   | 30.8.2022|Rebecca Willi|45 Minuten|   60 Minuten      |
+|4.A   |
+|5.A   |
+|6.A   |
+|7.A   | 30.8.2022| Rebecca Willi | 45 Minuten| 15 Minuten|
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
