@@ -6,8 +6,8 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|23.8   | 0.0.1   | ✍️  |
-|       | ...     |                                                              |
+|23.8   | 0.0.1   | Erste Dokumentation   |
+|30.8   | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
@@ -75,8 +75,9 @@ Total:
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| 2.A  |30.8.2022|Rebecca Willi|45 Minuten |   10 Minuten       |
+|3.A  | 30.8.2022|Rebecca Willi|45 Minuten|   60 Minuten |
+|4.A |
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
