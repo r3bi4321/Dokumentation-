@@ -1,4 +1,4 @@
-# Projekt-Dokumentation
+# Projekt-LA1100
 
 
 
@@ -7,8 +7,8 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |23.8   | 0.0.1   | Erste Dokumentation   |
-|30.8   | 0.0.2     | Programmieren des Programms                                |
-|       | 1.0.0   |                                                              |
+|30.8   | 0.0.2   | Programmieren des Zahlengenerators                         |
+|06.09  | 1.0.0   |  Programmieren der verschiedenen levels und neustart möglichkeit |
 
 ## 1 Informieren
 
@@ -65,7 +65,8 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Erst Programmieren des Zahlengenrators
-   
+   Programmieren der Wiederholungsmöglichkeit hinzugefügt
+   weglassen:6.A
 
 ## 4 Realisieren
 
