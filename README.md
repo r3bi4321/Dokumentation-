@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
+
 
 ✍️ Rebecca Willi
 
@@ -28,7 +28,6 @@
 | 6    | Kann            |Qualität  | Als Spieler möchte ich das keine Zahl zwei mal nacheinander kommt, damit es abwechslung beim Spiel gibt.|
 | 7    | Kann            |Rand      | Als Spieler möchte ich das es ein ruhige Farbe , damit es angenehmer ist auf den Bildschirm zu schauen.|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -42,7 +41,6 @@
 | 6.1  |Bereits eine Zahl ausgesuch| Neuer versuch beim Spiel| Andere Zahl ist richtig|
 | 7.1  |Spiel ist noch nicht offen| spiel öffnen| keine leuchtende Farbe als Hintergrund|
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 
@@ -61,9 +59,8 @@
 | 7.A  | 6.9   |Willi Rebecca|Programmierung Hintergrund|45 Minuten|
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
+
 
 ## 3 Entscheiden
 
@@ -81,7 +78,7 @@ Total:
 |5.A   |06.09.2022|Rebecca Willi|45 Minuten| 75 Minuten
 |6.A   |
 |7.A   | 30.8.2022| Rebecca Willi | 45 Minuten| 15 Minuten|
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+.
 
 ## 5 Kontrollieren
 
