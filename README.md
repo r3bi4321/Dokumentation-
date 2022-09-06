@@ -78,7 +78,7 @@ Total:
 | 2.A  |30.8.2022|Rebecca Willi|45 Minuten |   10 Minuten      |
 |3.A   | 30.8.2022|Rebecca Willi|45 Minuten|   60 Minuten      |
 |4.A   |
-|5.A   |
+|5.A   |06.09.2022|Rebecca Willi|45 Minuten| 75 Minuten
 |6.A   |
 |7.A   | 30.8.2022| Rebecca Willi | 45 Minuten| 15 Minuten|
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
