@@ -65,7 +65,7 @@ Total:
 ## 3 Entscheiden
 
 ✍️ Erst Programmieren des Zahlengenrators
-   Programmieren der Wiederholungsmöglichkeit hinzugefügt
+   8.AProgrammieren der Wiederholungsmöglichkeit hinzugefügt
    weglassen:6.A
 
 ## 4 Realisieren
@@ -79,7 +79,7 @@ Total:
 |5.A   |06.09.2022|Rebecca Willi|45 Minuten| 75 Minuten
 |6.A   |
 |7.A   | 30.8.2022| Rebecca Willi | 45 Minuten| 15 Minuten|
-.
+|8.A  |06.09.2022|Rebecca Willi|45 Minuten| 50 Minuten|
 
 ## 5 Kontrollieren
 
