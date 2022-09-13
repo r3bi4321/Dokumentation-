@@ -105,4 +105,4 @@ Ausgeführt von Simon Veljkovic.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/r3bi4321/Lernbericht_LA1100
