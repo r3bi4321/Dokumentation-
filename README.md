@@ -64,20 +64,20 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Erst Programmieren des Zahlengenrators
-   8.AProgrammieren der Wiederholungsmöglichkeit hinzugefügt
+ Erst Programmieren des Zahlengenrators
+   8.A|Programmieren der Wiederholungsmöglichkeit hinzugefügt|
    weglassen:6.A
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  |    /  |      /    |        /      |           /       |
 | 2.A  |30.8.2022|Rebecca Willi|45 Minuten |   10 Minuten      |
 |3.A   | 30.8.2022|Rebecca Willi|45 Minuten|   60 Minuten      |
-|4.A   |
+|4.A   |   /   |    /      |        /      |       /           |
 |5.A   |06.09.2022|Rebecca Willi|45 Minuten| 75 Minuten
-|6.A   |
+|6.A   |     / |      /     |      /       |        /          |
 |7.A   | 30.8.2022| Rebecca Willi | 45 Minuten| 15 Minuten|
 |8.A  |06.09.2022|Rebecca Willi|45 Minuten| 50 Minuten|
 
@@ -87,19 +87,21 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 2.1  | 13.09.2022| funktioniert| Rebecca Willi |
+| 3.1  | 13.09.2022| funktioniert| Rebecca Willi |
+| 5.1  | 13.09.2022| funktioniert| Rebecca Willi |
+| 7.1  | 13.09.2022| funktioniert| Rebecca Willi |
+| 8.1  | 13.09.2022| funktioniert| Rebecca Willi |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Das Programm läuft so wie es für die verschiedenen User Storys vorgesehen war.
 
 ### 5.2 Exploratives Testen
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+| I    |    || Das spiel wurde gestartet| Eingabe von Buchstaben| Es funktioniert nicht|Crash       
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+Ausgeführt von Simon Veljkovic.
 
 ## 6 Auswerten
 
